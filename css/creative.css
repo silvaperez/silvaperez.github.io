@@ -19,14 +19,14 @@ hr.light {
 }
 
 a {
-  color: #873423;
+  color: #F05F40;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #873423;
+  color: #F05F40;
 }
 
 h1,
