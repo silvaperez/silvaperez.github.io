@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Privacy Studies Podcast</title>
+        <link>https://teol.ku.dk/privacy/media/podcast/psp.xml/</link>
+        <description>Host Natália da Silva Perez talks to guests about privacy from a historical perspective. Invited scholars come from a range of disciplines beyond history, including law, social and computer sciences, and philosophy. Lectures and seminars from the Centre for Privacy Studies are also featured in this show.</description>
+        <generator>Feeder 3 3.6.6(3202); Mac OS X Version 10.14.6 (Build 18G8022) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>Creative Commons BY-NC-SA</copyright>
+        <managingEditor>nsp@teol.ku.dk</managingEditor>
+        <pubDate>Fri, 24 Jan 2020 13:08:17 +0100</pubDate>
+        <lastBuildDate>Thu, 06 Feb 2020 13:08:17 +0100</lastBuildDate>
+        <image>
+            <url>https://teol.ku.dk/privacy/media/podcast/pspimage.jpg/</url>
+            <title>Privacy Studies Podcast</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp.xml/</link>
+        </image>
+        <skipDays>
+            <day>Sunday</day>
+        </skipDays>
+        <atom:link href="https://teol.ku.dk/privacy/media/podcast/psp.xml/" rel="self" type="application/rss+xml"/>
+        <itunes:author>Centre for Privacy Studies</itunes:author>
+        <itunes:subtitle>A podcast about privacy in history and today.</itunes:subtitle>
+        <itunes:summary>Host Natália da Silva Perez talks to guests about privacy from a historical perspective. Invited scholars come from a range of disciplines beyond history, including law, social and computer sciences, and philosophy. Lectures and seminars from the Centre for Privacy Studies are also featured in this show.</itunes:summary>
+        <itunes:keywords>History,Early Modern,Privacy,Interdisciplinary</itunes:keywords>
+        <itunes:image href="https://teol.ku.dk/privacy/media/podcast/pspimage.jpg/"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Natália da Silva Perez</itunes:name>
+            <itunes:email>nsp@teol.ku.dk</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="History"/>
+        </itunes:category>
+        <itunes:category text="Education">
+            <itunes:category text="Higher Education"/>
+        </itunes:category>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>The Poison Trials - Interview with Alisha Rankin</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/PSP_season2022_ep14_Alisha_Rankin.mp3</link>
+            <description><![CDATA[Alisha Rankin is an associate professor of History at Tufts University. In this interview, recorded in the spring of 2021, Natacha Klein Käfer joins me as co-host to talk to Alisha about her book The Poison Trials : Wonder Drugs, Experiment, and the Battle for Authority in Renaissance Science.]]></description>
+            <pubDate>Mon, 4 April 2022 18:47:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_season2022_ep14_Alisha_Rankin.mp3" length="39min19" type="audio/mpeg"/>
+            <guid isPermaLink="false">38E13D08-F109-4FC5-87AF-3C851222CA46</guid>
+            <itunes:summary>Alisha Rankin is an associate professor of History at Tufts University. In this interview, recorded in the spring of 2021, Natacha Klein Käfer joins me as co-host to talk to Alisha about her book The Poison Trials : Wonder Drugs, Experiment, and the Battle for Authority in Renaissance Science.</itunes:summary>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>14</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Financial Accountability in France during the Reign of Louis XIV - Interview with Jacob Soll</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/PSP_season2021_ep13_Jacob_Soll.mp3</link>
+            <description><![CDATA[Jacob Soll is Professor of Philosophy, History and Accounting at the University of Southern California. In this episode recorded in the summer of 2020, we talk about financial auditing practices, state secrets, and tensions between state transparency and state security during the old regime. Check out two of his books that focus on these topics: The Reckoning: Financial Accountability and the Rise and Fall of Nations (2014), and The Information Master (2009).]]></description>
+            <pubDate>Mon, 31 May 2021 17:59:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_season2021_ep13_Jacob_Soll.mp3" length="54779645" type="audio/mpeg"/>
+            <guid isPermaLink="false">38E13D08-F109-4FC5-87AF-3C851222CA46</guid>
+            <itunes:summary>Jacob Soll is Professor of Philosophy, History and Accounting at the University of Southern California. In this episode recorded in the summer of 2020, we talk about financial auditing practices, state secrets, and tensions between state transparency and state security during the old regime. Check out two of his books that focus on these topics: The Reckoning: Financial Accountability and the Rise and Fall of Nations (2014), and The Information Master (2009).</itunes:summary>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Sex in an Old Regime City - Interview with Julie Hardwick</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/PSP_season2021_ep12_Julie_Hardwick.mp3</link>
+            <description><![CDATA[Julie Hardwick (University of Texas at Austin) talks about her newest book Sex in an Old Regime City: Young Workers and Intimacy in France 1660 - 1789, which came out with Oxford University Press in September 2020. In the book, she focuses on intimacy among young workers who lived in the urban environment of early modern Lyon, and makes extensive use of archival material to examine a topic highly relevant for privacy studies.]]></description>
+            <pubDate>Tue, 13 Apr 2021 16:47:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_season2021_ep12_Julie_Hardwick.mp3" length="52688265" type="audio/mpeg"/>
+            <guid isPermaLink="false">CC976224-81BB-4315-A21C-DF1586B42280</guid>
+            <itunes:summary>Julie Hardwick (University of Texas at Austin) talks about her newest book Sex in an Old Regime City: Young Workers and Intimacy in France 1660 - 1789, which came out with Oxford University Press in September 2020. In the book, she focuses on intimacy among young workers who lived in the urban environment of early modern Lyon, and makes extensive use of archival material to examine a topic highly relevant for privacy studies.</itunes:summary>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Private Rights and the Common Good in Late Scholastic Thought</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep11_james_gordley.mp3/</link>
+            <description><![CDATA[James Gordley argues that, in the writings of the late scholastics, private rights and the common good were in harmony, but modern liberalism disrupted this harmony. In his lecture, he explains how these ideas fit together.]]></description>
+            <pubDate>Tue, 30 Jun 2020 11:21:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep11_james_gordley.mp3/" length="74896136" type="audio/mpeg"/>
+            <guid isPermaLink="false">D6D2FA39-D4FC-44E3-ABE2-C9C076DE42B7</guid>
+            <itunes:summary>James Gordley argues that, in the writings of the late scholastics, private rights and the common good were in harmony, but modern liberalism disrupted this harmony. In his lecture, he explains how these ideas fit together.</itunes:summary>
+            <itunes:duration>52:04</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Lutheran Theology and Contract Law in Early Modern Germany</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/PSP_season2020_ep10_PA.mp3/</link>
+            <description><![CDATA[Paolo Astorri, winner of the RefoRC Book Award 2020 for his book Lutheran Theology and Contract Law in Early Modern Germany, talks about the influence of theological ideas in the development of contract theory in 16th century Germany. In this interview, we cover how ideas by Reformers Martin Luther and Philip Melanchton were expanded, developed, and sometimes even distorted by theologians and jurists that came in their wake.]]></description>
+            <pubDate>Sat, 30 May 2020 15:11:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_season2020_ep10_PA.mp3/" length="38143229" type="audio/mpeg"/>
+            <guid isPermaLink="false">B3367D40-A2AC-4D44-B539-FA08634A9BC5</guid>
+            <itunes:duration>26:30</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Locating the Private in the Roman World</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep09_andrew_riggsby.mp3/</link>
+            <description><![CDATA[Andrew Riggsby gives a talk titled "Locating the Private in the Roman World." He explains that, despite their common use of explicit terms for “private” (and “public”), the ancient Romans did little to theorize those categories. In his talk, Andrew supplies such a theoretical account and points out ways in which the “private” was used as a tool of social control. Drawing from examples from the realms of domestic space and of financial regulation, he attends especially to gendered aspects of this control.]]></description>
+            <pubDate>Fri, 27 Mar 2020 14:48:00 +0100</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep09_andrew_riggsby.mp3/" length="58910511" type="audio/mpeg"/>
+            <guid isPermaLink="false">A9FA0F32-38CF-4BFE-AC1E-67286143884C</guid>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Locating the Cubiculum: Early Christian musings on the Place of Prayer</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep08_mette_birkedal_bruun.mp3/</link>
+            <description><![CDATA[Mette Birkedal Bruun takes about the Gospel of Matthew, which presents Jesus introducing the Lord's Prayer with an injunction to enter into the chamber and close the door so as to pray in secret (Mt 6.6). For early Christian authors, this command elicited a series of questions: How to reconcile the entry into the chamber with the command to pray everywhere (cf 1 Tim 2)? Where and what is this chamber – not to mention its door? How are praying persons to comport themselves in the chamber under God's watchful eye? In this talk, Mette discusses third- and fourth-century expositions of Mt 6.6 and ponder their place in privacy studies.]]></description>
+            <pubDate>Fri, 28 Feb 2020 12:37:00 +0100</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep08_mette_birkedal_bruun.mp3/" length="22941523" type="audio/mpeg"/>
+            <guid isPermaLink="false">E630DAE8-5E5B-4F9F-9074-5E6B09CF554C</guid>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>From Rooftop to Chamber: Prayer in Jerome’s Rendering of the Book of Judith</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep07_florianwoller.mp3/</link>
+            <description><![CDATA[Florian Wöller discusses the biblical book of Judith in a Latin rendering (4th c. AD) by the church father Jerome. This book tells the story of a courageous widow who saved Israel from the Assyrians by killing the Assyrian general Holofernes. In the oldest versions of the story, Judith prays on the roof of her house, but in Jerome's translation, she prays in a cubiculum. In this talk, Florian investigates Jerome's move of Judith's place of prayer, contextualizing it with further late antique notions of cubiculum prayer, and suggesting a reading of Judith's cubiculum as a private-public place of prayer.]]></description>
+            <pubDate>Fri, 24 Jan 2020 11:54:00 +0100</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_season2020_ep07_florianwoller.mp3/" length="31973589" type="audio/mpeg"/>
+            <guid isPermaLink="false">88FAA47E-03FD-4CAC-8D01-C5BBCAD70102</guid>
+            <itunes:duration>22:13</itunes:duration>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Information and Privacy in Ages of Surveillance</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_06_cs_ls_jem.mp3/</link>
+            <description><![CDATA[Laura Skouvig and Jens-Erik Mai cover different current day perspectives on information, privacy and surveillance. They end with a discussion of information and surveillance in late 18th and early 19th centuries, and share examples of concrete manifestations found in the archives of the police in Copenhagen.]]></description>
+            <pubDate>Sat, 14 Dec 2019 10:40:00 +0100</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_06_cs_ls_jem.mp3/" length="61114021" type="audio/mpeg"/>
+            <guid isPermaLink="false">25400241-15D8-4D7C-BEFF-45C793B7AAFC</guid>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Privacy and Gender in Early Modern German Speaking Areas</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_05-hw.mp3/</link>
+            <description><![CDATA[Heide Wunder explores the emergence of modern "privacy“ or “Privatheit“ as a new concept of personal rights during the early modern period. She inspects evidence from printed sources such as funeral sermons, autobiographies and novels, which speak both to the spatial as well as to the gendered aspects of privacy.]]></description>
+            <pubDate>Sat, 02 Nov 2019 14:38:00 +0100</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_05-hw.mp3/" length="74586817" type="audio/mpeg"/>
+            <guid isPermaLink="false">D3B31EDD-CB0D-4124-BCD1-69781DB701BA</guid>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Madame de Maintenon's "Petits livres secrets"</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_04-lcn.mp3/</link>
+            <description><![CDATA[Lars Cyril Nørgaard talks about the private devotional practices of Madame de Maintenon, Louis XIV's second wife, to whom the king was married in secret.]]></description>
+            <pubDate>Sat, 07 Sep 2019 10:22:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_PilotSeason_04-LCN.mp3" length="30301831" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB4EAB11-C113-473D-8493-A45ED5E589B2</guid>
+            <itunes:duration>20:55</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Traces of a Medieval Private Reader</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_03-ahh.mp3/</link>
+            <description><![CDATA[Anni Haahr Henriksen tells us about her encounter with traces of a medieval private reader in a manuscript at the Cambridge University Library.]]></description>
+            <pubDate>Sat, 03 Aug 2019 16:27:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_PilotSeason_03-AHH.mp3" length="30503161" type="audio/mpeg"/>
+            <guid isPermaLink="false">758E8969-158A-4CD9-B542-942F2B8D8CC3</guid>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Examining Privacy in Early Modern Letters</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_02-mg.mp3/</link>
+            <description><![CDATA[Michaël Green talks about Dutch egodocuments and his research on privacy.]]></description>
+            <pubDate>Sat, 06 Jul 2019 10:24:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_PilotSeason_02-MG.mp3" length="27459110" type="audio/mpeg"/>
+            <guid isPermaLink="false">95A7BBF8-6149-4410-9CDB-9466AD401FC2</guid>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Introducing the Centre for Privacy Studies</title>
+            <link>https://teol.ku.dk/privacy/media/podcast/psp_pilotseason_01-mbb.mp3/</link>
+            <description><![CDATA[Mette Birkedal Bruun talks about her research on the history of privacy and the work at the Danish National Research Foundation's Centre for Privacy Studies at the University of Copenhagen.]]></description>
+            <pubDate>Sat, 01 Jun 2019 16:16:00 +0200</pubDate>
+            <enclosure url="https://teol.ku.dk/privacy/media/podcast/PSP_PilotSeason_01-MBB.mp3" length="30288257" type="audio/mpeg"/>
+            <guid isPermaLink="false">9CD72406-65CD-4442-B0D6-8475B2D5B871</guid>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
